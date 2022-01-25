@@ -1,2 +1,1 @@
-# Camunda Spring Boot deployment on Azure Kubernetes Service (AKS)
-This project tells 
+# Azure Kubernetes Service (AKS) Camunda Deployment
